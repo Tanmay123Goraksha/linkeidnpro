@@ -1,6 +1,10 @@
 # 🚀 Mini LinkedIn Community Platform
 
 A modern, full-stack social networking platform built with React, Node.js, Express, and PostgreSQL. Features user authentication, post creation, user profiles, and a responsive design.
+<img width="1919" height="945" alt="image" src="https://github.com/user-attachments/assets/7b519b68-4c19-43a0-8ee2-dcaf3ccc40f5" />
+<img width="1919" height="949" alt="image" src="https://github.com/user-attachments/assets/d4926f0b-fd18-4951-9907-a03f5f9b8bb0" />
+
+
 
 
 ## ✨ Features
